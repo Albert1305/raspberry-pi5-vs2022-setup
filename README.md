@@ -87,7 +87,7 @@ int main() {
 
 Dieses Programm öffnet ein Fenster auf dem HDMI‑Monitor des Raspberry Pi.
 
-------------------------------------------------------------
+-------------------------------------------------------------
 
 6) WICHTIG: NACH NEUINSTALLATION VON WINDOWS
 -------------------------------------------
@@ -100,5 +100,5 @@ Nur in Visual Studio:
 
 Fertig. Alles andere bleibt unverändert.
 
-============================================================
+=============================================================
 
